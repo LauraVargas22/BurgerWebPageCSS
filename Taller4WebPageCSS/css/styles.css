@@ -99,9 +99,8 @@ nav {
 .part1 {
     font-family: "Poppins", sans-serif;
     position: relative;
-    left: 20%;
-    top: 150px;
-    height: 800px;
+    left: 400px;
+    top: 200px;
 }
 .title1 {
     font-weight: 700;
@@ -125,11 +124,11 @@ h2 {
 
 .home1 {
     position: absolute;
-    right: 20%;
-    top: 150px;
+    right: 400px;
+    top: 200px;
 }
 
-h3 {
+.title2 {
     color: rgb(255, 94, 0);
     font-weight: 300;
     font-size: 2rem;
@@ -151,22 +150,132 @@ p {
     font-family: "Poppins", sans-serif;
     position: absolute;
     right: 500px;
-    top: 1200px;
-    height: 800px;
+    top: 1300px;
+    height: 100vh;
 }
 
 .about1 {
     position: absolute;
     left: 500px;
-    top: 1200px;
+    top: 1300px;
 }
 
 .part3 {
     font-family: "Poppins", sans-serif;
-    position: relative;
-    right: 1000px;
-    top: 2000px;
-    height: 800px;
+    position: absolute;
+    right: 780px;
+    top: 2100px;
+    height: 100vh;
     text-align: center;
 }
+
+.img {
+    background-color: white;
+    position: relative;
+    left: 500px;
+    top: 198px;
+    border-collapse: separate;
+    border-spacing: 10px 5px;
+}
+
+.img2 {
+  background-color: white;
+  position: relative;
+  left: 900px;
+  top: -256px;
+  border-collapse: separate;
+  border-spacing: 10px 5px;
+}
+.img3 {
+  background-color: white;
+  position: relative;
+  left: 1300px;
+  top: -710px;
+  border-collapse: separate;
+  border-spacing: 10px 5px;
+}
+.td1 {
+    text-align: center;
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+.td2 {
+  text-align: center;
+  font-weight: 400;
+  font-size: 1.5rem;
+}
+
+.td3 {
+    text-align: center;
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: rgb(255, 94, 0);
+}
+
+.part4 {
+  font-family: "Poppins", sans-serif;
+  position: absolute;
+  right: 700px;
+  top: 3100px;
+  height: 100vh;
+  text-align: center;
+}
+
+.img4 {
+  position: relative;
+  top: 270px;
+  left: 200px;
+  border-collapse: separate;
+  border-spacing: 10px 5px;
+}
+.img5 {
+  position: relative;
+  top: -293px;
+  left: 800px;
+  border-collapse: separate;
+  border-spacing: 10px 5px;
+}
+.img6 {
+  position: relative;
+  top: -853px;
+  left: 1400px;
+  border-collapse: separate;
+  border-spacing: 10px 5px;
+}
+.td4 {
+  text-align: center;
+  font-weight: 500;
+  font-size: 2.5rem;
+  color: rgb(255, 94, 0);
+}
+
+.td5 {
+  text-align: center;
+  font-weight: 400;
+  font-size: 1.8rem;
+  color: white;
+}
+
+.part5 {
+  font-family: "Poppins", sans-serif;
+  background-color: rgb(245, 235, 223);
+  width: 80%;
+  position: absolute;
+  left: 200px;
+  top: 4200px;
+  height: 600px;
+  text-align: center;
+}
+.subtitle1 {
+  color: rgb(10, 10, 63);
+  font-weight: 500;
+  font-size: 4rem;
+  padding-top: 90px;
+  line-height: 2;
+}
+
+
+
+
 
