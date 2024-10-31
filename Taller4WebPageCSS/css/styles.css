@@ -99,7 +99,7 @@ nav {
 .part1 {
     font-family: "Poppins", sans-serif;
     position: relative;
-    left: 400px;
+    left: 300px;
     top: 200px;
 }
 .title1 {
@@ -124,7 +124,7 @@ h2 {
 
 .home1 {
     position: absolute;
-    right: 400px;
+    right: 200px;
     top: 200px;
 }
 
@@ -140,7 +140,7 @@ h2 {
     font-size: 3rem;
 }
 
-p {
+.p1 {
     color: white;
     font-weight: 300;
     font-size: 2rem;
@@ -149,21 +149,21 @@ p {
 .part2 {
     font-family: "Poppins", sans-serif;
     position: absolute;
-    right: 500px;
+    right: 200px;
     top: 1300px;
     height: 100vh;
 }
 
 .about1 {
     position: absolute;
-    left: 500px;
+    left: 300px;
     top: 1300px;
 }
 
 .part3 {
     font-family: "Poppins", sans-serif;
     position: absolute;
-    right: 780px;
+    right: 900px;
     top: 2100px;
     height: 100vh;
     text-align: center;
@@ -171,26 +171,26 @@ p {
 
 .img {
     background-color: white;
-    position: relative;
-    left: 500px;
-    top: 198px;
+    position: absolute;
+    left: 300px;
+    top: 2300px;
     border-collapse: separate;
     border-spacing: 10px 5px;
 }
 
 .img2 {
   background-color: white;
-  position: relative;
-  left: 900px;
-  top: -256px;
+  position: absolute;
+  left: 700px;
+  top: 2300px;
   border-collapse: separate;
   border-spacing: 10px 5px;
 }
 .img3 {
   background-color: white;
-  position: relative;
-  left: 1300px;
-  top: -710px;
+  position: absolute;
+  left: 1100px;
+  top: 2300px;
   border-collapse: separate;
   border-spacing: 10px 5px;
 }
@@ -223,22 +223,22 @@ p {
 }
 
 .img4 {
-  position: relative;
-  top: 270px;
+  position: absolute;
+  top: 3300px;
   left: 200px;
   border-collapse: separate;
   border-spacing: 10px 5px;
 }
 .img5 {
-  position: relative;
-  top: -293px;
+  position: absolute;
+  top: 3300px;
   left: 800px;
   border-collapse: separate;
   border-spacing: 10px 5px;
 }
 .img6 {
-  position: relative;
-  top: -853px;
+  position: absolute;
+  top: 3300px;
   left: 1400px;
   border-collapse: separate;
   border-spacing: 10px 5px;
@@ -274,6 +274,61 @@ p {
   padding-top: 90px;
   line-height: 2;
 }
+.p2 {
+  color: white;
+  font-weight: 400;
+  font-size: 2rem;
+  border-bottom: 2px solid rgb(255, 94, 0);
+  width: max-content;
+  line-height: 1.5;
+}
+.footer1 {
+  position: absolute;
+  width: 100%;
+  left: 200px;
+  top: 5000px;
+}
+
+.textFooter {
+  text-align: left;
+  font-weight: 300;
+  font-size: 1.5rem;
+  color: white;
+  text-decoration: none;
+}
+
+.textFooter:hover {
+  text-align: left;
+  font-weight: 300;
+  font-size: 1.5rem;
+  color: rgb(255, 94, 0);
+  text-decoration: underline;
+}
+
+.footer2 {
+  position: absolute;
+  width: 100%;
+  left: 500px;
+  top: 5000px;
+}
+
+.footer3 {
+  position: absolute;
+  width: 100%;
+  left: 900px;
+  top: 5000px;
+}
+
+.footer4 {
+  position: absolute;
+  width: 100%;
+  left: 1300px;
+  top: 5000px;
+}
+
+
+
+
 
 
 
